@@ -8,10 +8,10 @@ The F1 racing data analysis.
 - [x] 1. Bahrain Grand Prix,	Bahrain Bahrain International Circuit, Sakhir	5 March
 - [x] 2. Saudi Arabian Grand Prix,	Saudi Arabia Jeddah Corniche Circuit, Jeddah	19 March
 - [ ] 3. Australian Grand Prix,	Australia Albert Park Circuit, Melbourne	2 April
-- [ ] 4. Azerbaijan Grand Prix,	Azerbaijan Baku City Circuit, Baku	30 April
-- [ ] 5. Miami Grand Prix,	United States Miami International Autodrome, Miami Gardens, Florida	7 May
+- [x] 4. Azerbaijan Grand Prix,	Azerbaijan Baku City Circuit, Baku	30 April
+- [x] 5. Miami Grand Prix,	United States Miami International Autodrome, Miami Gardens, Florida	7 May
 - [ ] 6. Emilia Romagna Grand Prix,	Italy Imola Circuit, Imola	21 May
-- [ ] 7. Monaco Grand Prix,	Monaco Circuit de Monaco, Monaco	28 May
+- [x] 7. Monaco Grand Prix,	Monaco Circuit de Monaco, Monaco	28 May
 - [ ] 8. Spanish Grand Prix,	Spain Circuit de Barcelona-Catalunya, Montmeló	4 June
 - [ ] 9. Canadian Grand Prix,	Canada Circuit Gilles Villeneuve, Montréal	18 June
 - [ ] 10.	Austrian Grand Prix,	Austria Red Bull Ring, Spielberg	2 July
