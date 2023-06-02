@@ -31,6 +31,11 @@ The F1 racing data analysis.
 
 </details>
 
+<details>
+<summary>Season 2022</summary>
+
+</details>
+
 ## Resources
 
 - https://www.formula1.com
