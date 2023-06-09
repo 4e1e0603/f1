@@ -2,6 +2,8 @@
 
 The F1 racing data analysis.
 
+<img src="https://staticg.sportskeeda.com/editor/2023/01/1219b-16745356866745-1920.jpg" width="100%"/>
+
 ## Schedule
 
 <details>
