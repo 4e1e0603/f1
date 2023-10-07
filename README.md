@@ -17,14 +17,14 @@ The F1 racing data analysis.
 - [ ] 6. Emilia Romagna Grand Prix,	Italy Imola Circuit, Imola	21 May **CANCELLED**
 - [x] 7. Monaco Grand Prix,	Monaco Circuit de Monaco, Monaco	28 May
 - [x] 8. Spanish Grand Prix, Spain Circuit de Barcelona-Catalunya, Montmeló	4 June
-- [ ] 9. Canadian Grand Prix, Canada Circuit Gilles Villeneuve, Montréal	18 June
-- [ ] 10.	Austrian Grand Prix, Austria Red Bull Ring, Spielberg	2 July
-- [ ] 11.	British Grand Prix,	United Kingdom Silverstone Circuit, Silverstone	9 July
-- [ ] 12.	Hungarian Grand Prix,	Hungary Hungaroring, Mogyoród	23 July
-- [ ] 13.	Belgian Grand Prix,	Belgium Circuit de Spa-Francorchamps, Stavelot	30 July
-- [ ] 14.	Dutch Grand Prix,	Netherlands Circuit Zandvoort, Zandvoort	27 August
-- [ ] 15.	Italian Grand Prix,	Italy Monza Circuit, Monza	3 September
-- [ ] 16.	Singapore Grand Prix,	Singapore Marina Bay Street Circuit, Singapore	17 September
+- [x] 9. Canadian Grand Prix, Canada Circuit Gilles Villeneuve, Montréal	18 June
+- [x] 10.	Austrian Grand Prix, Austria Red Bull Ring, Spielberg	2 July
+- [x] 11.	British Grand Prix,	United Kingdom Silverstone Circuit, Silverstone	9 July
+- [x] 12.	Hungarian Grand Prix,	Hungary Hungaroring, Mogyoród	23 July
+- [x] 13.	Belgian Grand Prix,	Belgium Circuit de Spa-Francorchamps, Stavelot	30 July
+- [x] 14.	Dutch Grand Prix,	Netherlands Circuit Zandvoort, Zandvoort	27 August
+- [x] 15.	Italian Grand Prix,	Italy Monza Circuit, Monza	3 September
+- [x] 16.	Singapore Grand Prix,	Singapore Marina Bay Street Circuit, Singapore	17 September
 - [x] 17.	Japanese Grand Prix, Japan Suzuka International Racing Course, Suzuka	24 September
 - [ ] 18.	Qatar Grand Prix,	Qatar Lusail International Circuit, Lusail	8 October
 - [ ] 19.	United States Grand Prix,	United States Circuit of the Americas, Austin, Texas	22 October
